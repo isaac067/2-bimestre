@@ -1,0 +1,8 @@
+programa {
+  funcao inicio() {
+    inteiro ano_em_decada = 10
+    inteiro min_em_um_ano = 525600
+        escreva(min_em_um_ano * ano_em_decada)
+    
+  }
+}
