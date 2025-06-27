@@ -1,0 +1,9 @@
+programa {
+  funcao inicio() {
+    inteiro ano = 365
+    inteiro hora = 24
+        escreva(ano * hora)
+
+
+  }
+}
